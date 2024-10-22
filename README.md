@@ -1,7 +1,7 @@
 <h1 align="center"> Grocery React</h1>
 
 <p float="left">
-  <img src="./src/Demoimages/01.png"  width = 45%/>
+<!--   <img src="./src/Demoimages/01.png"  width = 45%/>
   <img src="./src/Demoimages/02.png"  width = 45%/>
   <img src="./src/Demoimages/03.png"  width = 45%/>
   <img src="./src/Demoimages/04.png"  width = 45%/>
@@ -13,7 +13,7 @@
   <img src="./src/Demoimages/10.png"  width = 45%/>
   <img src="./src/Demoimages/11.png"  width = 45%/>
   <img src="./src/Demoimages/12.png"  width = 45%/>
-  <img src="./src/Demoimages/13.png"  width = 45%/>
+  <img src="./src/Demoimages/13.png"  width = 45%/> -->
   <!-- <img src="."  width = 45%/>
   <img src="."  width = 45%/>
   <img src="."  width = 45%/> -->
