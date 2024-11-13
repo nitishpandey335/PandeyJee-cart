@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import { Link } from "react-router-dom";
 
-import Grocerylogo from "../../images/Grocerylogo.png";
+import Grocerylogo from "../../images/category-bakery-biscuits.jpg"; //Add image
 import product1 from "../../images/category-baby-care.jpg";
 import product2 from "../../images/category-atta-rice-dal.jpg";
 import product3 from "../../images/category-bakery-biscuits.jpg";

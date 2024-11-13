@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Grocerylogo from "../images/Grocerylogo.png";
+import Grocerylogo from "../images/logo-png.png"; //Add grocery logo
 import menubanner from "../images/menu-banner.jpg";
 import productimage1 from '../images/product-img-1.jpg'
 import productimage2 from '../images/product-img-2.jpg'

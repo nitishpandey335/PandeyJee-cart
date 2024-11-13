@@ -19,7 +19,7 @@ import dairybreadeggs from "../images/dairy-bread-eggs.png";
 import grocerybanner from "../images/grocery-banner.png";
 import grocerybanner2 from "../images/grocery-banner-2.jpg";
 import map from "../images/map.png";
-import iphone from "../images/iphone-2.png";
+import iphone from "../images/banner-deal1.jpg";
 import googleplay from "../images/googleplay-btn.svg";
 import appstore from "../images/appstore-btn.svg";
 import bannerdeal from "../images/banner-deal1.jpg";
@@ -253,7 +253,7 @@ const Home = () => {
                               Opening Sale Discount 50%
                             </span>
                             <h2 className="text-dark display-5 fw-bold mt-4">
-                             Pandeyjee <br />Grocery
+                             Pandeyjee <br />Cart
                             </h2>
                             <p className="lead">
                               Introduced a new model for online grocery shopping

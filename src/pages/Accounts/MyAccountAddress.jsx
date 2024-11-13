@@ -157,12 +157,12 @@ const MyAccountAddress = () => {
                                 </div>
                                 {/* address */}
                                 <p className="mb-6">
-                                  Jitu Chauhan
+                                  Rishabh Anand
                                   <br />
-                                  4450 North Avenue Oakland, <br />
-                                  Nebraska, United States,
+                                  802312 Arrah , <br />
+                                  Bihar, India,
                                   <br />
-                                  402-776-1106
+                                  6299-xxx-524
                                 </p>
                                 {/* btn */}
                                 <Link to="#" className="btn btn-info btn-sm">
@@ -202,12 +202,12 @@ const MyAccountAddress = () => {
                                 </div>
                                 {/* nav item */}
                                 <p className="mb-6">
-                                  Nitu Chauhan
+                                  Ashwani Singh
                                   <br />
-                                  3853 Coal Road <br />
-                                  Tannersville, Pennsylvania, 18372, United
-                                  States <br />
-                                  402-776-1106
+                                  802316 Partapgadh <br />
+                                  uttar pardesh, India
+                                   <br />
+                                 953-xxx--639
                                 </p>
                                 {/* link */}
                                 <Link to="#" className="link-primary">
@@ -265,12 +265,12 @@ const MyAccountAddress = () => {
                 <div className="modal-body">
                   <h6>Are you sure you want to delete this address?</h6>
                   <p className="mb-6">
-                    Jitu Chauhan
+                    Rishabh Anand
                     <br />
-                    4450 North Avenue Oakland, <br />
-                    Nebraska, United States,
+                    802312 Arrah <br />
+                    Bihar, India,
                     <br />
-                    402-776-1106
+                    629-xxx-3524
                   </p>
                 </div>
                 {/* modal footer */}
@@ -392,9 +392,9 @@ const MyAccountAddress = () => {
                         aria-label="Default select example"
                       >
                         <option selected>Gujarat</option>
-                        <option value={1}>Northern Ireland</option>
-                        <option value={2}> Alaska</option>
-                        <option value={3}>Abu Dhabi</option>
+                        <option value={1}>Bihar</option>
+                        <option value={2}> Uttar Pardesh</option>
+                        <option value={3}>Punjab</option>
                       </select>
                     </div>
                     {/* col */}

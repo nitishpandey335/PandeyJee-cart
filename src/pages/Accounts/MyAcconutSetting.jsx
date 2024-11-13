@@ -138,7 +138,7 @@ const MyAcconutSetting = () => {
                                     <input
                                       type="text"
                                       className="form-control"
-                                      placeholder="Nigam Mishra"
+                                      placeholder="Nitish Pandey"
                                     />
                                   </div>
                                   {/* input */}
@@ -199,7 +199,7 @@ const MyAcconutSetting = () => {
                               {/* input */}
                               <div className="col-12">
                                 <p className="mb-4">
-                                  Can’t remember your current password?
+                                  Can't remember your current password?
                                   <Link to="#"> Reset your password.</Link>
                                 </p>
                                 <Link to="#" className="btn btn-primary">

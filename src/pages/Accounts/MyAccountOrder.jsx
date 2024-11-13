@@ -178,7 +178,7 @@ const MyAccountOrder = () => {
                                   </Link>
                                 </td>
                                 <td className="align-middle border-top-0">
-                                  March 5, 2023
+                                  November 5, 2024
                                 </td>
                                 <td className="align-middle border-top-0">1</td>
                                 <td className="align-middle border-top-0">
@@ -225,7 +225,7 @@ const MyAccountOrder = () => {
                                   </Link>
                                 </td>
                                 <td className="align-middle border-top-0">
-                                  July 9, 2023
+                                  July 9, 2024
                                 </td>
                                 <td className="align-middle border-top-0">2</td>
                                 <td className="align-middle border-top-0">
@@ -271,7 +271,7 @@ const MyAccountOrder = () => {
                                   </Link>
                                 </td>
                                 <td className="align-middle border-top-0">
-                                  Oct 03, 2023
+                                  Oct 03, 2024
                                 </td>
                                 <td className="align-middle border-top-0">4</td>
                                 <td className="align-middle border-top-0">
@@ -318,7 +318,7 @@ const MyAccountOrder = () => {
                                   </Link>
                                 </td>
                                 <td className="align-middle border-top-0">
-                                  March 5, 2023
+                                  March 5, 2024
                                 </td>
                                 <td className="align-middle border-top-0">1</td>
                                 <td className="align-middle border-top-0">
@@ -365,7 +365,7 @@ const MyAccountOrder = () => {
                                   </Link>
                                 </td>
                                 <td className="align-middle border-top-0">
-                                  July 9, 2023
+                                  July 9, 2024
                                 </td>
                                 <td className="align-middle border-top-0">2</td>
                                 <td className="align-middle border-top-0">
@@ -412,7 +412,7 @@ const MyAccountOrder = () => {
                                   </Link>
                                 </td>
                                 <td className="align-middle border-top-0">
-                                  Oct 03, 2023
+                                  Oct 03, 2024
                                 </td>
                                 <td className="align-middle border-top-0">4</td>
                                 <td className="align-middle border-top-0">

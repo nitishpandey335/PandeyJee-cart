@@ -275,13 +275,13 @@ const AboutUs = () => {
                 >
                   <div className="col-md-5">
                     <a
-                      href="https://www.youtube.com/watch?v=zPo5ZaH6sW8"
+                      href="https://www.youtube.com/watch?v=zPo5ZaH6s8"
                       className="gallery-item video-item is-hovered rounded-3"
                       data-sub-html='<h6 class="fs-sm text-light">Silicon Inc. Showreel by Marvin McKinney</h6>'
                     >
                       <img src={member8} alt="Gallery thumbnail" />
                       <div className="gallery-item-caption p-4">
-                        <h4 className="text-light mb-1">Fresh Cart Inc.</h4>
+                        <h4 className="text-light mb-1">Pandeyjee Cart Inc.</h4>
                         <p className="mb-0">Showreel by Marvin McKinney</p>
                       </div>
                     </a>
@@ -449,7 +449,7 @@ const AboutUs = () => {
                     <div className="col-xl-3 col-lg-4 col-md-5 offset-lg-1">
                       <Slide direction="down" delay={0.5}>
                       <p className="lead mb-2 mb-md-3">Ready to get started?</p>
-                      <h2 className="h1 pb-3">Don’t Hesitate to Contact Us</h2>
+                      <h2 className="h1 pb-3">Don't Hesitate to Contact Us</h2>
                       </Slide>
                     </div>
                     <form
