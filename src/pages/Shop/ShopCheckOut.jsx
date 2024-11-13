@@ -121,11 +121,11 @@ const ShopCheckOut = () => {
                                 {/* address */}
                                 <address>
                                   {" "}
-                                  <strong>Nitu Chauhan</strong> <br /> 3853 Coal
+                                  <strong>Rishabh Anand</strong> <br /> 802311 gt
                                   Road, <br />
-                                  Tannersville, Pennsylvania, 18372, USA,
+                                  Bihar, Bhojpur, 802311
                                   <br />
-                                  <abbr title="Phone">P: 402-776-1106</abbr>
+                                  <abbr title="Phone">P: 6299xx24</abbr>
                                 </address>
                                 <span className="text-danger">
                                   Default address{" "}
@@ -151,11 +151,11 @@ const ShopCheckOut = () => {
                                 </div>
                                 <address>
                                   {" "}
-                                  <strong>Nitu Chauhan</strong> <br /> 3853 Coal
+                                  <strong>Rishabh Anand</strong> <br /> 802311 gt
                                   Road, <br />
-                                  Tannersville, Pennsylvania, 18372, USA,
+                                  Bihar, Bhojpur, India, 802311,
                                   <br />
-                                  <abbr title="Phone">P: 402-776-1106</abbr>
+                                  <abbr title="Phone">P: 73240xx670</abbr>
                                 </address>
                               </div>
                             </div>
@@ -371,7 +371,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -408,7 +408,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$0.00</div>
+                                <div className="col-3 text-center">Rs.0.00</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-success">Free</span>
                                 </div>
@@ -445,7 +445,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 {/* badge */}
                                 <div className="col-3 text-center">
                                   {" "}
@@ -484,7 +484,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 {/* badge */}
                                 <div className="col-3 text-center">
                                   {" "}
@@ -533,7 +533,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -570,7 +570,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -607,7 +607,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$0.00</div>
+                                <div className="col-3 text-center">Rs.0.00</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-success">Free</span>
                                 </div>
@@ -644,7 +644,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -681,7 +681,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -728,7 +728,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -765,7 +765,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -802,7 +802,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$0.00</div>
+                                <div className="col-3 text-center">Rs.0.00</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-success">Free</span>
                                 </div>
@@ -839,7 +839,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -876,7 +876,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -923,7 +923,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -960,7 +960,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -997,7 +997,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$0.00</div>
+                                <div className="col-3 text-center">Rs.0.00</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-success">Free</span>
                                 </div>
@@ -1034,7 +1034,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1071,7 +1071,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1118,7 +1118,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1155,7 +1155,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 {/* badge */}
                                 <div className="col-3 text-center">
                                   {" "}
@@ -1194,7 +1194,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$0.00</div>
+                                <div className="col-3 text-center">Rs.0.00</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-success">Free</span>
                                 </div>
@@ -1231,7 +1231,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1268,7 +1268,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1315,7 +1315,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1352,7 +1352,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1389,7 +1389,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$0.00</div>
+                                <div className="col-3 text-center">Rs.0.00</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-success">Free</span>
                                 </div>
@@ -1426,7 +1426,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1463,7 +1463,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1510,7 +1510,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1547,7 +1547,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1584,7 +1584,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$0.00</div>
+                                <div className="col-3 text-center">Rs.0.00</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-success">Free</span>
                                 </div>
@@ -1621,7 +1621,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -1658,7 +1658,7 @@ const ShopCheckOut = () => {
                                   </div>
                                 </div>
                                 {/* price */}
-                                <div className="col-3 text-center">$3.99</div>
+                                <div className="col-3 text-center">Rs.3.99</div>
                                 <div className="col-3 text-center">
                                   <span className="badge bg-danger">Paid</span>
                                 </div>
@@ -2015,7 +2015,7 @@ const ShopCheckOut = () => {
                               <span>1</span>
                             </div>
                             <div className="col-3 text-lg-end text-start text-md-end col-md-3">
-                              <span className="fw-bold">$5.00</span>
+                              <span className="fw-bold">Rs.5.00</span>
                             </div>
                           </div>
                         </li>
@@ -2039,9 +2039,9 @@ const ShopCheckOut = () => {
                               <span>1</span>
                             </div>
                             <div className="col-3 text-lg-end text-start text-md-end col-md-3">
-                              <span className="fw-bold">$20.00</span>
+                              <span className="fw-bold">Rs.20.00</span>
                               <div className="text-decoration-line-through text-muted small">
-                                $26.00
+                                Rs.26.00
                               </div>
                             </div>
                           </div>
@@ -2066,9 +2066,9 @@ const ShopCheckOut = () => {
                               <span>1</span>
                             </div>
                             <div className="col-3 text-lg-end text-start text-md-end col-md-3">
-                              <span className="fw-bold">$15.00</span>
+                              <span className="fw-bold">Rs.15.00</span>
                               <div className="text-decoration-line-through text-muted small">
-                                $20.00
+                                Rs.20.00
                               </div>
                             </div>
                           </div>
@@ -2093,9 +2093,9 @@ const ShopCheckOut = () => {
                               <span>1</span>
                             </div>
                             <div className="col-3 text-lg-end text-start text-md-end col-md-3">
-                              <span className="fw-bold">$15.00</span>
+                              <span className="fw-bold">Rs.15.00</span>
                               <div className="text-decoration-line-through text-muted small">
-                                $20.00
+                                Rs.20.00
                               </div>
                             </div>
                           </div>
@@ -2104,7 +2104,7 @@ const ShopCheckOut = () => {
                         <li className="list-group-item px-4 py-3">
                           <div className="d-flex align-items-center justify-content-between   mb-2">
                             <div>Item Subtotal</div>
-                            <div className="fw-bold">$70.00</div>
+                            <div className="fw-bold">Rs.70.00</div>
                           </div>
                           <div className="d-flex align-items-center justify-content-between  ">
                             <div>
@@ -2115,14 +2115,14 @@ const ShopCheckOut = () => {
                                 title="Default tooltip"
                               />
                             </div>
-                            <div className="fw-bold">$3.00</div>
+                            <div className="fw-bold">Rs.3.00</div>
                           </div>
                         </li>
                         {/* list group item */}
                         <li className="list-group-item px-4 py-3">
                           <div className="d-flex align-items-center justify-content-between fw-bold">
                             <div>Subtotal</div>
-                            <div>$73.00</div>
+                            <div>Rs.73.00</div>
                           </div>
                         </li>
                       </ul>
@@ -2160,12 +2160,12 @@ const ShopCheckOut = () => {
                 <div className="modal-body">
                   <h6>Are you sure you want to delete this address?</h6>
                   <p className="mb-6">
-                    Jitu Chauhan
+                    Ashwani Singh
                     <br />
-                    4450 North Avenue Oakland, <br />
-                    Nebraska, United States,
+                    802316, Arrah, Bihar, <br />
+                    India,
                     <br />
-                    402-776-1106
+                    9534xx0639
                   </p>
                 </div>
                 <div className="modal-footer">
@@ -2265,9 +2265,9 @@ const ShopCheckOut = () => {
                       {/* button */}
                       <select className="form-select">
                         <option selected> India</option>
-                        <option value={1}>UK</option>
-                        <option value={2}>USA</option>
-                        <option value={3}>UAE</option>
+                        <option value={1}>Bihar</option>
+                        <option value={2}>UP</option>
+                        <option value={3}>Delhi</option>
                       </select>
                     </div>
                     <div className="col-12">
@@ -2277,9 +2277,9 @@ const ShopCheckOut = () => {
                         aria-label="Default select example"
                       >
                         <option selected>Gujarat</option>
-                        <option value={1}>Northern Ireland</option>
-                        <option value={2}> Alaska</option>
-                        <option value={3}>Abu Dhabi</option>
+                        <option value={1}>Arrah</option>
+                        <option value={2}> Haryana</option>
+                        <option value={3}>Punjab</option>
                       </select>
                     </div>
                     <div className="col-12">

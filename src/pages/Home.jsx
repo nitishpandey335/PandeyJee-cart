@@ -277,11 +277,11 @@ const Home = () => {
                         >
                           <div className="ps-lg-12 py-lg-16 col-xxl-5 col-md-7 py-14 px-8 text-xs-center">
                             <span className="badge text-bg-warning">
-                              Free Shipping - orders over $100
+                              Free Shipping - orders over Rs.100
                             </span>
                             <h2 className="text-dark display-5 fw-bold mt-4">
                               Free Shipping on <br /> orders over{" "}
-                              <span className="text-primary">$100</span>
+                              <span className="text-primary">Rs.100</span>
                             </h2>
                             <p className="lead">
                               Free Shipping to First-Time Customers Only, After
@@ -347,7 +347,7 @@ const Home = () => {
                               </h1>
                               <span>
                                 Download the app get free food &amp;{" "}
-                                <span className="text-primary">$30</span> off on
+                                <span className="text-primary">Rs.30</span> off on
                                 your first order.
                               </span>
                             </div>
@@ -388,7 +388,7 @@ const Home = () => {
                                 personal care{" "}
                               </h3>
                               <div className="mt-4 mb-5 fs-5">
-                                <p className="mb-0">Max cashback: $12</p>
+                                <p className="mb-0">Max cashback: Rs.12</p>
                                 <span>
                                   Code:{" "}
                                   <span className="fw-bold text-dark">
@@ -1074,9 +1074,9 @@ const Home = () => {
                                   </h2>
                                   <div className="d-flex justify-content-between align-items-center mt-3">
                                     <div>
-                                      <span className="text-dark">$13</span>{" "}
+                                      <span className="text-dark">Rs.13</span>{" "}
                                       <span className="text-decoration-line-through text-muted">
-                                        $18
+                                        Rs.18
                                       </span>
                                     </div>
                                     <div>
@@ -1188,9 +1188,9 @@ const Home = () => {
                                   </h2>
                                   <div className="d-flex justify-content-between align-items-center mt-3">
                                     <div>
-                                      <span className="text-dark">$13</span>{" "}
+                                      <span className="text-dark">Rs.13</span>{" "}
                                       <span className="text-decoration-line-through text-muted">
-                                        $18
+                                        Rs.18
                                       </span>
                                     </div>
                                     <div>
@@ -1302,9 +1302,9 @@ const Home = () => {
                                   </h2>
                                   <div className="d-flex justify-content-between align-items-center mt-3">
                                     <div>
-                                      <span className="text-dark">$13</span>{" "}
+                                      <span className="text-dark">Rs.13</span>{" "}
                                       <span className="text-decoration-line-through text-muted">
-                                        $18
+                                        Rs.18
                                       </span>
                                     </div>
                                     <div>
@@ -1416,9 +1416,9 @@ const Home = () => {
                                   </h2>
                                   <div className="d-flex justify-content-between align-items-center mt-3">
                                     <div>
-                                      <span className="text-dark">$13</span>{" "}
+                                      <span className="text-dark">Rs.13</span>{" "}
                                       <span className="text-decoration-line-through text-muted">
-                                        $18
+                                        Rs.18
                                       </span>
                                     </div>
                                     <div>
