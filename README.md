@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> Grocery React</h1>
 
 <p float="left">
@@ -77,3 +78,6 @@
 =======
 </ul>
 >>>>>>> 53b5d59a03073b84be8b9807c44f9f899c0f37e3
+=======
+# Pandeyjee_Cart
+>>>>>>> 6b2b5a192a377332a488b2a8a348f6afa2a78955
