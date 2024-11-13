@@ -30,7 +30,7 @@
 
 <div class="theme-description">
 <<<<<<< HEAD
-                        <p>FreshCart is a beautiful eCommerce React.js template specially designed for multipurpose shops like mega stores, grocery stores, supermarkets, organic shops, and online stores selling products. You can build an impactful store website for your online shop or other similar businesses without grounding things up. Moreover, its clean, minimal, and beautiful design with 100% responsive layouts will hook the visitors at first sight.</p>
+                        <p>Pandeyjee cart is a beautiful eCommerce React.js template specially designed for multipurpose shops like mega stores, grocery stores, supermarkets, organic shops, and online stores selling products. You can build an impactful store website for your online shop or other similar businesses without grounding things up. Moreover, its clean, minimal, and beautiful design with 100% responsive layouts will hook the visitors at first sight.</p>
 =======
                         <p>PandeyjeeCart is a beautiful eCommerce React.js template specially designed for multipurpose shops like mega stores, grocery stores, supermarkets, organic shops, and online stores selling products. You can build an impactful store website for your online shop or other similar businesses without grounding things up. Moreover, its clean, minimal, and beautiful design with 100% responsive layouts will hook the visitors at first sight.</p>
 >>>>>>> 53b5d59a03073b84be8b9807c44f9f899c0f37e3
