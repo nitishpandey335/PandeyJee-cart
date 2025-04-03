@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-<h1 align="center"> Grocery React</h1>
-
+<h1 align="center"> Pandeyjee Cart React</h1>
 <p float="left">
-<<<<<<< HEAD
+<HEAD
   <img src="./src/Demoimages/01.png"  width = 45%/>
-=======
 <!--   <img src="./src/Demoimages/01.png"  width = 45%/>
 >>>>>>> 53b5d59a03073b84be8b9807c44f9f899c0f37e3
   <img src="./src/Demoimages/02.png"  width = 45%/>
@@ -22,7 +19,6 @@
   <img src="./src/Demoimages/13.png"  width = 45%/>
 =======
   <img src="./src/Demoimages/13.png"  width = 45%/> -->
->>>>>>> 53b5d59a03073b84be8b9807c44f9f899c0f37e3
   <!-- <img src="."  width = 45%/>
   <img src="."  width = 45%/>
   <img src="."  width = 45%/> -->
@@ -30,11 +26,8 @@
 
 
 <div class="theme-description">
-<<<<<<< HEAD
-                        <p>Pandeyjee cart is a beautiful eCommerce React.js template specially designed for multipurpose shops like mega stores, grocery stores, supermarkets, organic shops, and online stores selling products. You can build an impactful store website for your online shop or other similar businesses without grounding things up. Moreover, its clean, minimal, and beautiful design with 100% responsive layouts will hook the visitors at first sight.</p>
-=======
-                        <p>PandeyjeeCart is a beautiful eCommerce React.js template specially designed for multipurpose shops like mega stores, grocery stores, supermarkets, organic shops, and online stores selling products. You can build an impactful store website for your online shop or other similar businesses without grounding things up. Moreover, its clean, minimal, and beautiful design with 100% responsive layouts will hook the visitors at first sight.</p>
->>>>>>> 53b5d59a03073b84be8b9807c44f9f899c0f37e3
+<head>
+  <p>Pandeyjee cart is a beautiful eCommerce React.js template specially designed for multipurpose shops like mega stores, grocery stores, supermarkets, organic shops, and online stores selling products. You can build an impactful store website for your online shop or other similar businesses without grounding things up. Moreover, its clean, minimal, and beautiful design with 100% responsive layouts will hook the visitors at first sight.</p>
 <h3>eCommerce Features:</h3>
 <ul>
 <li>Built on top of Bootstrap5,Bootstrap4 and some React.js Hooks</li>
@@ -73,11 +66,6 @@
 <li>Fully responsive</li>
 <li>W3C valid code</li>
 <li>Well Documented.</li>
-<<<<<<< HEAD
 </ul>
-=======
 </ul>
->>>>>>> 53b5d59a03073b84be8b9807c44f9f899c0f37e3
-=======
-# Pandeyjee_Cart
->>>>>>> 6b2b5a192a377332a488b2a8a348f6afa2a78955
+</head>
